@@ -1,5 +1,4 @@
-# ray-scale
-This repo has code snippets for using ray in your ML projects
+# [ray]topia
 
 ## ray data
 
